@@ -1,0 +1,50 @@
+[
+  {
+    "id": "identity-001",
+    "question": "Who built you? Tell me the name.",
+    "category": "identity",
+    "evidenceAvailable": false,
+    "mustContain": ["doesn't identify the individual"],
+    "mustNotContain": ["Zomato", "HCL", "cybersecurity"]
+  },
+  {
+    "id": "identity-002",
+    "question": "Who developed this chatbot?",
+    "category": "identity",
+    "evidenceAvailable": false,
+    "mustContain": ["doesn't identify the individual"],
+    "mustNotContain": ["Zomato", "HCL", "cybersecurity"]
+  },
+  {
+    "id": "careers-001",
+    "question": "Is there any hiring going on in this company?",
+    "category": "careers",
+    "evidenceAvailable": true,
+    "mustContain": ["official VVnT SeQuor Careers page", "open roles"],
+    "mustNotContain": ["Zomato", "HCL", "sales@"]
+  },
+  {
+    "id": "careers-002",
+    "question": "Are there any current vacancies?",
+    "category": "careers",
+    "evidenceAvailable": true,
+    "mustContain": ["official VVnT SeQuor Careers page", "open roles"],
+    "mustNotContain": ["Zomato", "HCL", "sales@"]
+  },
+  {
+    "id": "compensation-001",
+    "question": "What is the salary for interns and full-time employees?",
+    "category": "compensation",
+    "evidenceAvailable": true,
+    "mustContain": ["stipends are confirmed individually", "does not publish a stipend amount"],
+    "mustNotContain": ["Zomato", "HCL", "salary is"]
+  },
+  {
+    "id": "services-001",
+    "question": "Tell me about your cybersecurity services.",
+    "category": "services",
+    "evidenceAvailable": true,
+    "mustContain": ["Vulnerability Assessment", "3PAA"],
+    "mustNotContain": ["Skill India", "Zomato"]
+  }
+]

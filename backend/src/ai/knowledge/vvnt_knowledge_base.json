@@ -1,0 +1,490 @@
+[
+  {
+    "id": "doc-001",
+    "title": "VVnT SeQuor: Enterprise Digital Capability Partner & Overview",
+    "category": "Corporate Overview",
+    "content": "VVnT SeQuor is an AI-powered digital engineering firm and capability partner led by industry veterans with over 25 years of experience. We build inclusive, resilient, and high-performing digital ecosystems. Motto: Effectiveness In{Quality Security}. We make digital services faster, safer, and accessible to everyone. Our capabilities span AI-Driven Solutions, Custom Software Development, GenAI & Agentic AI, End-to-End Verification, Validation & Testing (VVNT Converge), Cybersecurity (3PAA/VAPT), Accessibility (WCAG), DevSecOps, and Managed IT Support."
+  },
+  {
+    "id": "doc-002",
+    "title": "Leadership Team & Executive Advisors",
+    "category": "Leadership & Management",
+    "content": "VVnT SeQuor is led by industry experts: 1. Parveen Kumar Arora (Founding Leader & Seasoned Quality Security Expert): 24+ years experience in Engineering Management, QA, Cloud Security, DevSecOps, and Continuous Testing. Email: parveen.arora@vvnt.in. 2. Bhawna Narula (Founding Leader & Enterprise Digital Transformation Leader): 26+ years experience in enterprise leadership, IT & HR Strategy, Digital Transformation, Application Modernization, AI/ML, and Generative AI. Email: bhawna.narula@vvnt.in. 3. Mr. Anil Gupta (Executive Advisor & Esteemed Industry Veteran): 40+ years of industry experience in leadership roles at technology giants including NEC and HCL Technologies. Education: IIT-Delhi B.Tech & Postgraduate Research Scholar from University of Tsukuba, Japan."
+  },
+  {
+    "id": "doc-003",
+    "title": "Multifaceted Talent Pool & Industry Certifications",
+    "category": "Team & Certifications",
+    "content": "VVnT SeQuor features a team of ~45 Practitioners with 220+ years of collective experience. Over 70% of engineers are AI & Automation Savvy certified. Experience breakdown: 15+ years (6), 8+ years (8), 5+ years (6), 2+ years (16), <2 years (10). Tech Stack: UI/UX & Frontend (JavaScript, ReactJS, Angular), Backend & DB (Python, NodeJS, Java, SpringBoot, DotNet, MySQL). Certifications held: ISTQB Certified Digital QA, Certified Cloud & CyberSecurity Practitioner (CCSP, CCSK), DevSecOps Certified Practitioners, ISO 9001, ISO/IEC 27001, ISO/IEC 20000 Certified, ITIL v3, Certified Kaizen & Continuous Improvement, Certified GDPR Practitioner & Fellow of Privacy Technology, Certified DevOps Leader & Enterprise Coach."
+  },
+  {
+    "id": "doc-004",
+    "title": "Large-Scale Skill Development & AI Trainings (Skill India)",
+    "category": "Services & National Impact",
+    "content": "Empowering next-generation youth with expert-led training in AI, Cloud, DevOps, Cyber Security, and Privacy to bridge the digital talent gap. Programs for 11th/12th graders and graduates cover GenAI, safe coding, and digital ethics, directly supporting the 'Skill India' mission. National Impact: Partnering with state and national education boards to implement Skill India initiatives, training thousands of students simultaneously."
+  },
+  {
+    "id": "doc-005",
+    "title": "GenAI & Agentic AI Development",
+    "category": "AI & Innovation",
+    "content": "We deploy autonomous AI agents and Consolidated Reporting Systems to automate complex tasks and ensure fiscal transparency in government budgeting. Our AI-driven Public Complaint systems analyze multi-lingual grievances to identify trends and recommend actions. Policy Intelligence tools forecast outcomes for data-driven decisions. Citizen AI Assistants streamline access to laws and public services. National Impact: Agentic AI solutions acting as digital co-pilots helping citizens navigate laws and entitlements in local languages."
+  },
+  {
+    "id": "doc-006",
+    "title": "Custom Software & Application Modernization (DigiYatra)",
+    "category": "Software Engineering",
+    "content": "We modernize legacy applications into secure, AI-integrated platforms through Smart Governance Modules. Solutions include localized citizen portals, automated workflows, and dashboards for monitoring public works and grievances. We specialize in high-traffic infrastructure—such as examination portals—and biometric services like Face Recognition (e.g., DigiYatra) to ensure seamless, transparent identity verification. National Impact: Transforming fragmented systems into unified, interoperable digital ecosystems."
+  },
+  {
+    "id": "doc-007",
+    "title": "Cybersecurity & Privacy Assessments (VAPT & 3PAA)",
+    "category": "Cybersecurity",
+    "content": "Vulnerability Assessment and Penetration Testing (VAPT), Third-Party Assessment & Audits (3PAA) across cloud, mobile, and web. DevSecOps integration, strict compliance with DPDPA (2023), GDPR, CCPA, HIPAA, PCI DSS, CIS, MITRE, OWASP, SANS. Implementation of WAF, DAM, Application Shielding & RASP tools. National Impact: Protecting national data (such as Aadhaar or health records) and securing critical infrastructure against cyber-attacks."
+  },
+  {
+    "id": "doc-008",
+    "title": "Accessibility & Inclusive Engineering (WCAG)",
+    "category": "Accessibility",
+    "content": "Ensuring technology works for everyone, including people with disabilities, by strictly adhering to WCAG, Section 508, and ADA standards to eliminate digital barriers. We perform accessibility audits, VPAT report creation, and inclusive UI/UX engineering. National Impact: Making 'Digital India' truly inclusive by ensuring all government websites and services are fully usable by every citizen regardless of physical abilities."
+  },
+  {
+    "id": "doc-009",
+    "title": "Strategic IT & Enterprise Architecture Advisory (Smart City)",
+    "category": "Consulting",
+    "content": "Expert consulting and advisory services for government and enterprise leaders to design future-ready 'Smart City' architectures and manage large-scale digital transformations. Building long-term technology roadmaps to help officials align on complex IT infrastructure and ensure systems are scalable, interoperable, and resilient."
+  },
+  {
+    "id": "doc-010",
+    "title": "End-to-End IT Solutions, Infrastructure & User Enablement",
+    "category": "IT Infrastructure",
+    "content": "Mission-critical IT solutions, including hardware procurement (servers, workstations, and CCTV/surveillance systems) alongside 24/7 technical support (L1/L2). Full-lifecycle maintenance for Cloud, On-Premise, and security infrastructure. National Impact: Ensuring essential services, from emergency response and surveillance to utility billing, remain online and secure 24/7."
+  },
+  {
+    "id": "doc-011",
+    "title": "AI-Driven Quality Assurance & Testing (VVNT Converge)",
+    "category": "Quality Assurance",
+    "content": "360-degree testing coverage—functional, security, performance, UAT, observability, globalization/localization, reverse engineering, and continuous testing using our proprietary platform: VVNT Converge. Processes align with STQC standards to guarantee zero-failure reliability for high-traffic public portals like exam results or benefit registrations when millions of citizens access them simultaneously."
+  },
+  {
+    "id": "doc-012",
+    "title": "Techno-Legal Assurance & Auditing",
+    "category": "Compliance & Audit",
+    "content": "Compliance audits ensuring regulatory adherence to global standards, Privacy Framework Compliance (GDPR, CCPA, HIPAA, DPDPA 2023), Accessibility Standards & Audits (WCAG, Section 508, ADA), Technology & Security Policy Audits, and Security Awareness & Training. Specialized auditing for AI, Blockchain, IoT, and Cloud."
+  },
+  {
+    "id": "doc-013",
+    "title": "Application Service Desk Solutions (L1/L2 Support)",
+    "category": "Managed Support",
+    "content": "Tier 1 (L1) and Tier 2 (L2) Advanced Support, Multi-channel assistance, Intelligent Ticket Management, SLA Tracking & Proactive Monitoring, Proactive Root Cause Analysis, and Disaster Recovery Planning Support. Customized support plans tailored to client needs."
+  },
+  {
+    "id": "doc-014",
+    "title": "VVnT SeQuor Distinguished Clientele & Success Stories",
+    "category": "Clients & Portfolio",
+    "content": "VVnT SeQuor serves prestigious clients across public sector, global industry leaders, and tech innovators:\n- Zomato / Blinkit / Eternal: Platform-specific testing for Android & iOS, Web Accessibility Compliance Audits & VPAT report creation, dining-related scenario testing, strategic retainership consulting.\n- iCAT & NITCON: Management of 600+ end-users & server environments, comprehensive IT infrastructure support (network, security, storage), ISO 27001 & SOC operationalization, cloud transformations.\n- HCL Technologies: Engineering practices and consulting for all HR Processes & Tech, internal apps & SaaS implementations for HCL & CIO division, Legal & Compliance requirements across 50+ countries, Security Assessments & Accessibility testing.\n- Entomo: Engineering consulting & product development for HR company, digital QA outsourcing with monthly release testing, test automation for Web, Mobile, and Chatbot interfaces, performance/security/accessibility testing.\n- Larsen & Toubro (L&T): Developed modern Intranet portal with engaging features, HRIS & external reward systems integration, custom BI dashboards & reports, SSO, Q&A, and engagement tools.\n- Biocon: Engineering consulting for tech utilization, HR Data Architecture assessment, automated HR process validation.\n- Trezix: Performance testing for SaaS platform, EXIM trade functionality response times, peak transaction volume handling.\n- LogisticsNow: Logistics product reinvention, digital QA, VAPT audits, test automation.\n- Sapiens: End-to-end LMS technology solution, digital transformation journey, technical architecture verification.\n- iFixTech Global: Quality & Security Partner for ITSM, VAPT assessments, test automation for iFix platform."
+  },
+  {
+    "id": "doc-015",
+    "title": "Synergy Partners Network",
+    "category": "Partnerships",
+    "content": "VVnT SeQuor collaborates with strategic technology partners including: VARA, TI Infotech, iFIXtech Global, GRhombus, VONNUE, INNOWORQ, DGLIGER, KritiKal Solutions, and Team Computers."
+  },
+  {
+    "id": "doc-016",
+    "title": "Contact Us, Office Location & Direct Channels",
+    "category": "Contact Information",
+    "content": "Office Address: Logix Technova, IT Park, A-106 & 104, Plot No. 4, Sector 132, Expressway, Noida-201304 (Adjacent Adobe Building), Uttar Pradesh, India.\nDirect Phone Connect: +91 88028 01739 | +91 98180 68547 | +91-120-3574106\nCorporate Inquiry Email: sales@vvntsequor.in\nLeadership & Strategy Emails: parveen.arora@vvnt.in | bhawna.narula@vvnt.in\nWeb: https://www.vvntsequor.in"
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-1",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "Pa g e | 1 VVnT SeQuor: Your Digital Capability Partner Building inclusive, resilient, and high-performing digital ecosystems. About Us VVnT SeQuor is an AI-powered engineering firm led by industry veterans with over 25 years of industry experience, backed by a specialized team working in high-impact digital engineering projects. We specialize in making digital services faster, safer, and accessible to everyone. Core Digital Solutions & Strategic Consulting 1. Large-Scale Skill Development & AI",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 1
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-2",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "Digital Solutions & Strategic Consulting 1. Large-Scale Skill Development & AI Trainings We empower the next generation youth with expert-led, large-scale training in AI, Cloud, DevOps, Cyber Security, and Privacy to bridge the digital talent gap. Our programs for 11/12th-graders and graduates cover GenAI, safe coding, and digital ethics, directly supporting the \"Skill India\" mission to build a future-ready, certified workforce. • National Impact: Partnering with state and national education",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 2
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-3",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "workforce. • National Impact: Partnering with state and national education boards to implement \"Skill India\" initiatives, training thousands of students simultaneously. 2. GenAI & Agentic AI Development We deploy autonomous AI agents and Consolidated Reporting Systems to automate complex tasks and ensure fiscal transparency in government budgeting. Our AI-driven Public Complaint systems analyze multi-lingual grievances to identify trends and recommend actions, while Policy Intelligence tools",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 3
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-4",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "to identify trends and recommend actions, while Policy Intelligence tools forecast outcomes to support data- driven decisions. Complementing these, our Citizen AI Assistants streamline access to laws and public services, reducing administrative burdens and significantly enhancing the citizen experience. • National Impact: Our Agentic AI solutions act as intelligent digital co-pilots, enabling governments to deliver faster, smarter, and more inclusive public services by helping citizens navigate",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 4
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-5",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "smarter, and more inclusive public services by helping citizens navigate laws and entitlements in local languages. 3. Custom Software & Application Modernization We modernize legacy applications into secure, AI-integrated platforms through Smart Governance Modules for high-impact service delivery. Our solutions include localized citizen portals, automated workflows, and dashboards for monitoring public works and grievances. We specialize in high-traffic infrastructure—such as examination",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 5
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-6",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "grievances. We specialize in high-traffic infrastructure—such as examination portals—and biometric services like Face Recognition (e.g., DigiYatra) to ensure seamless, transparent identity verification and efficient public service delivery. • National Impact: Transforming fragmented systems into unified, interoperable digital ecosystems to improve operational visibility. By building department-specific Pa g e | 2 tools for infrastructure and traffic management, we enable governments to scale",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 6
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-7",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "tools for infrastructure and traffic management, we enable governments to scale digital initiatives reliably and deliver faster citizen services across regions. 4. Cybersecurity & Privacy Assessments (VAPT) We provide strategic fortification through Vulnerability Assessment and Penetration Testing (VAPT) and Third-Party Assessment & Audits (3PAA) to ensure a robust security posture across cloud, mobile, and web landscapes. By integrating DevSecOps to ensure strict compliance with the DPDPA",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 7
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-8",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "landscapes. By integrating DevSecOps to ensure strict compliance with the DPDPA (2023) and global privacy frameworks, we identify deep-seated vulnerabilities and simulate real-world exploits to protect digital systems. • National Impact: Protecting national data (like Aadhaar or health records) and securing critical infrastructure against cyber-attacks. 5. Accessibility & Inclusive Engineering We ensure technology works for everyone, including people with disabilities, by strictly following",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 8
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-9",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "works for everyone, including people with disabilities, by strictly following WCAG and other Accessibility standards to eliminate digital barriers. By embedding inclusive design from the start, we support on ensuring all government websites and services are fully usable by every citizen regardless of their physical abilities. • National Impact: Making \"Digital India\" truly inclusive by ensuring all government websites are usable by every citizen. 6. Strategic IT & Enterprise Architecture",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 9
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-10",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "websites are usable by every citizen. 6. Strategic IT & Enterprise Architecture Advisory We provide expert consulting and advisory services to government leaders to design future- ready \"Smart City\" architectures and manage large-scale digital transformations. By building long-term technology roadmaps, we help officials align on building complex IT infrastructure and ensuring systems are scalable, interoperable, and resilient. • National Impact: Helping officials design the \"Smart City\"",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 10
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-11",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "and resilient. • National Impact: Helping officials design the \"Smart City\" architectures of the future and manage large-scale digital transformations. 7. End-to-End IT Solutions, Infrastructure & User Enablement We provide mission-critical IT solutions, including hardware procurement (servers, workstations, and CCTV/surveillance systems) alongside 24/7 technical support (L1/L2). We manage full-lifecycle maintenance for Cloud, On-Premise, and security infrastructure to ensure essential systems",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 11
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-12",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "for Cloud, On-Premise, and security infrastructure to ensure essential systems remain fully operational and resilient around the clock. • National Impact: Ensuring essential services, from emergency response and surveillance to utility billing, remain online and secure 24/7. 8. AI-Driven Quality Assurance & Testing We deliver 360-degree testing coverage—with functional, security, and performance metrics—alongside User Acceptance Testing (UAT) and observability to ensure zero-failure reliability",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 12
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-13",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "Acceptance Testing (UAT) and observability to ensure zero-failure reliability for mission-critical applications, using our proprietary platform, VVNT Converge. Pa g e | 3 Our processes align with STQC standards, identifying bottlenecks before they reach the user to guarantee that high-traffic digital infrastructure remains fast, stable, and resilient. • National Impact: Ensuring essential public portals like exam results or benefit registrations, remain accessible even when millions of people",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 13
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-14",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "or benefit registrations, remain accessible even when millions of people use them at once. Our Clientele: Over the past four years, VVnT SeQuor has served as a trusted digital partner for a prestigious portfolio of organizations. Our experience spans global industry leaders, high-growth tech innovators, and critical public sector institutions: • Public Sector & Government: Partnering with respected organizations such as iCAT and NITCON to deliver specialized engineering and advisory solutions.",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 14
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-15",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "as iCAT and NITCON to deliver specialized engineering and advisory solutions. • Global Industry Leaders: Providing strategic digital capabilities to giants like HCL, Sapiens, and L&T. • High-Growth Digital Innovators: Supporting the rapid scale and technological needs of platforms including Zomato, Blinkit, Entomo, LogisticsNow, Trezix, and iFixTech. Why Partner with VVnT SeQuor? • Unrivaled Expertise: Led by Certified Experts with 25+ years of leadership and a team of 45+ practitioners",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 15
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-16",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "Certified Experts with 25+ years of leadership and a team of 45+ practitioners offering 220+ years of collective experience in complex digital engineering. • AI-First Innovation: We leverage cutting-edge AI to transform how government departments process data and serve citizens with maximum efficiency. • Ethical & Safety-Driven: Our solutions follow strict Responsible AI principles, ensuring automation remains transparent, unbiased, and secure. • Human-Centric & Inclusive: We prioritize",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 16
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-17",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "transparent, unbiased, and secure. • Human-Centric & Inclusive: We prioritize accessibility and WCAG standards to ensure digital services equitably reach every citizen. • Compliance Excellence: Adhering to ISO 9001, ISO 27001, and global privacy regulations to ensure total data sovereignty and regulatory excellence. Contact Us • Corporate Inquiry: sales@vvntsequor.in • Leadership & Strategy: parveen.arora@vvnt.in | bhawna.narula@vvnt.in • Web: www.vvntsequor.in • Direct Connect: +91 88028 01739",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 17
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Capability_Overview_pdf-18",
+    "title": "VVnT SeQuor Capability Overview",
+    "category": "Official Document",
+    "content": "• Web: www.vvntsequor.in • Direct Connect: +91 88028 01739 | +91 98180 68547 | +91-120-3574106",
+    "sourceFile": "VVnT_SeQuor_Capability_Overview.pdf",
+    "chunkIndex": 18
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-1",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Effectiveness In{Quality Security} Engineering AI-Powered Digital Ecosystems Your Partner in Creating Inclusive, Resilient, and High-Performing Futures •VVnT SeQuor a t a Glance •Areas o f Expertise •Leadership Team •Multifaceted Talent Pool •O u r Distinguished Clientele •Business Solutions Portfolio •Empowering Digital Evolution : Custom A p p & DevOps Scaling •Holistic A I-Driven Digital Testing Services •Cyber Assurance : VAPT Services Portfolio •Specialized A I & Automation Solutions",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 1
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-2",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Assurance : VAPT Services Portfolio •Specialized A I & Automation Solutions •Techno-Legal Assurance & Auditing •Application Service Desk Solutions •Synergy Partners •T h e SeQuor Advantage Your AI-Powered Capability Partner, Inclusive by Design. We redefine Digital Engineering, focusing on delivering Effectiveness in Quality, Security, and Compliance across your products and services. Our expertise spans AI-Driven Solutions, Custom Software Development, and end-to-end Verification, Validation &",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 2
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-3",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Custom Software Development, and end-to-end Verification, Validation & Testing across the lifecycle, including Security, Privacy, Accessibility, DevSecOps, and Mobile Apps. ▪Founders bring decades of trusted AI & Engineering expertise from leading global enterprises. ▪Guided by the unparalleled leadership of Executive Advisor, Mr. Anil Gupta, a 40+ year industry veteran. ▪Our 45+ practitioners bring 220+ years of collective experience, ensuring a wealth of deep knowledge and skill. ▪Mastery in",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 3
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-4",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "experience, ensuring a wealth of deep knowledge and skill. ▪Mastery in Cutting-Edge AI: Specializing in Generative AI & Agentic AI Development, AI- Driven Testing, Custom Software Development, Cybersecurity (3PAA/VAPT), and AI-Enhanced Managed Support. VVnT SeQuor a t a Glance Navigating t h e Complexities o f t h e Digital EraRapid Digital Transformation Increasing demand for quick and efficient digital shifts. Digital Security Threats Growing risks to digital security and resilience. Quality",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 4
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-5",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Security Threats Growing risks to digital security and resilience. Quality & Performance Challenges in ensuring quality and performance at scale. Inclusive Experiences Critical need for truly inclusive digital experiences. Leveraging AI Difficulty in effectively using cutting-edge AI technologies. Empowering Organizations to Thrive At VVNT SEQUOR, we redefine Quality, Security, and Digital Engineering. We deliver AI-powered solutions that create inclusive, resilient, and high-performing digital",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 5
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-6",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "solutions that create inclusive, resilient, and high-performing digital ecosystems. Leadership Te a m •Founding leader of VVnT SeQuor, with deep expertise in Engineering Management & Quality Assurance. •Expert in Cloud Security, DevSecOps & DevOps Leadership, and Continuous Testing methodologies. •About 24 years experience propelling business success through AI-driven, Quality-focused strategies and fortified cyber defense, ensuring compliant innovation. Parveen Kumar Arora Seasoned Quality",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 6
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-7",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "defense, ensuring compliant innovation. Parveen Kumar Arora Seasoned Quality Security Expert •Founding leader of VVnT SeQuor. Brings over 26 years of experience in enterprise leadership. •Specialist in end-to-end IT & HR Strategy, Digital Transformation, and Application Modernization. •Strategically integrates AI/ML & Generative AI, fortifies cybersecurity policies, and drives forward innovative technology implementations. Bhawna Narula Enterprise Digital Transformation Leader •He is IIT-Delhi",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 7
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-8",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Bhawna Narula Enterprise Digital Transformation Leader •He is IIT-Delhi B.Tech & Postgraduate (Research scholar) from University Tsukuba, Japan •Over 40 years of unparalleled industry experience in leadership roles at global technology giants (NEC, HCL Technologies & others). •Provides invaluable strategic counsel, guiding organizations to build successful businesses and foster corporate growth. •Focuses on market expansion and advising on cutting-edge technology adoption. Anil Gupta Esteemed",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 8
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-9",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "expansion and advising on cutting-edge technology adoption. Anil Gupta Esteemed Industry Veteran & Advisor Multifaceted Talent PoolUI/UX & Frontend Specialists (JavaScript, ReactJS, Angular) Backend & Database Experts (Python, NodeJS, Java, SpringBoot, DotNet, MySQL) ISTQB CertifiedDigital QA Professionals Certified Cloud & CyberSecurityPractitioner (CCSP, CCSK) DevSecOps CertifiedPractitioners ISO 9001, ISO/IEC 27001, ISO/IEC 20000 Certified ITIL v3 CertifiedProfessionals Certified Kaizen &",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 9
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-10",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "ISO/IEC 20000 Certified ITIL v3 CertifiedProfessionals Certified Kaizen & Continuous Improvement Practitioners Certified GDPR Practitioner & Fellowof Privacy Technology Certified DevOps Leader &Enterprise Coach More than 70% ofengineers areAI & Automation Savvy certified Overall ~45 Practitioners @VVnT (220+ Years of Collective Exp.) Exp. level Count -------------------------- 15+ years 6 8+ years 8 5+ years 6 2+ years 16 < 2 years 10 https://icat.in/images/logo-l.png Zomato Gets A New Name",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 10
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-11",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "years 16 < 2 years 10 https://icat.in/images/logo-l.png Zomato Gets A New Name Logo; What Prompted The Change? | Odisha BytesOur Distinguished Clientele •Engineering practices and consulting for all HR Processes & Technologies •Engineering solutions for internal applications & SaaS Implementations for HCL & CIO division •Implementation of Legal & Compliance requirements across 50+ countries •Security Assessments & Accessibility testing •Engineering Consulting and New Product Development for a",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 11
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-12",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Accessibility testing •Engineering Consulting and New Product Development for a HR product company •Digital QA outsourcing with monthly Product Qualification / Release Testing •Test Automation for Web, Mobile, and Chatbot interfaces •Performance, Security. Accessibility & Responsiveness testing •Quality & Security Partner for across ITSM & other domains •Digital QA outsourcing with bi-monthly Product Qualification / Release Testing •Comprehensive VAPT Assessments and Security Consulting",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 12
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-13",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "/ Release Testing •Comprehensive VAPT Assessments and Security Consulting services •Test Automation for Web modules and V&V of iFix Platform •Management of 600+ end-users & server environments •Comprehensive IT infrastructure support including network, security & storage •Leading ISO 27001 & SOC operationalization •Strategic cloud application transformations for enhanced performance •Advisory services on future-ready IT evolution & architecture •Platform-specific testing for Android and iOS",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 13
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-14",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "IT evolution & architecture •Platform-specific testing for Android and iOS applications •Web Accessibility Compliance Audits and VPAT report creation •Dining-related scenario testing for both web and mobile applications •Strategic consulting provided on a retainership model Zomato Gets A New Name Logo; What Prompted The Change? | Odisha BytesOur Distinguished Clientele •Engineered the reinvention of a Logistics Product Company •Delivered Digital QA services with bi-monthly Product Qualification",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 14
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-15",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Company •Delivered Digital QA services with bi-monthly Product Qualification & Release Testing •Conducted VAPT Audits and led Security Implementation •Performed Test Automation on key scenarios and comprehensive Performance Testing •Provided Engineering Consulting to optimize Technology Utilization •Assessed HR Data Architecture for strategic optimization •Enhanced and validated Automated HR Processes with Verifications & Validations •Standardized HR Approaches across global processes and",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 15
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-16",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "& Validations •Standardized HR Approaches across global processes and geographies. •Recommended an End-to-End Learning Management Technology Solution •Facilitated the organization's Digital Transformation journey •Verified technical architecture for compatibility & performance •Ensured Digital Transformation initiatives aligned with organizational goals •Provided performance testing for their SaaS platform •Optimized response times for critical EXIM trade functionalities •Improved scalability",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 16
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-17",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "response times for critical EXIM trade functionalities •Improved scalability and capacity to handle peak transaction volumes •Resolved performance bottlenecks impacting trade operations •Developed a modern Intranet portal with engaging features •Integrated with HRIS and external reward systems •Implemented custom dashboards and reports for business intelligence •Delivered core functionalities including SSO, Q&A, and engagement tools Business Solutions LandscapeDriving AI-Powered Digital",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 17
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-18",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "and engagement tools Business Solutions LandscapeDriving AI-Powered Digital Engineering, our solutions span Custom Development, 360-degree Quality & Security Assurance, Strategic Consulting, and Optimized Support. Empowering Digital Evolution ...Custom App & DevOps Scaling •End-to-end Custom Application Development from design to deployment •Expert Advisory & Consulting on advanced engineering practices •Dev(X)Ops Transformation: Cultivating agile culture and Value Stream Mapping •Comprehensive",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 18
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-19",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Cultivating agile culture and Value Stream Mapping •Comprehensive Engineering & DevOps Assessments for continuous enhancement Holistic AI-Driven Digital Testing Services •AI-Powered End-to-End Testing across full lifecycle •Intelligent Test Automation for efficient strategies & quality implementation •Continuous Testing & Shift-Left approach of quality assurance •End-to-End Functional Testing to ensure system reliability •Accessibility & Usability testing for inclusivity & better UX",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 19
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-20",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "reliability •Accessibility & Usability testing for inclusivity & better UX •Globalization Testing for compatibility & high performance Cyber Assurance ...VAPT Services Portfolio •Security Assessments: Infrastructure, Network, Application (VAPT, SAST, DAST, IAST), API & Microservices •Implementation of WAF, DAM, Application Shielding & RASP tools for robust defense •Security & Privacy by Design within DevSecOps frameworks •Privacy Impact Assessments for data protection compliance •Shift-Left",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 20
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-21",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "•Privacy Impact Assessments for data protection compliance •Shift-Left Security Checks & Automation for proactive threat mitigation Specialized AI & Automation Solutions •AI Models & Algorithms Development and Validation •Intelligent Automation (RPA) for Workflow Optimization & Efficiency •Cloud Scalability & Security Assessment / Consulting •Data Migration Solutions: Ensuring integrity and seamless transitions •Specialized testing over Blockchain, IoT, Gaming solutions Techno-Legal Assurance &",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 21
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-22",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "testing over Blockchain, IoT, Gaming solutions Techno-Legal Assurance & Auditing •Compliance Audits: Ensuring Regulatory Adherence to Global Standards •Privacy Framework Compliance: Adherence to privacy regulations and best practices •Accessibility Guidelines & Standards: Ensuring comprehensive accessibility compliance •Leveraging AI, Blockchain, IoT, Cloud in Secure manner Application Service Desk Solutions •Superior L1/L2 Support for enhanced process efficiency •Advanced L2 Support with",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 22
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-23",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "L1/L2 Support for enhanced process efficiency •Advanced L2 Support with diverse channel assistance •Ticket Management: SLA Tracking and Proactive Monitoring •Root Cause Analysis for continuous insights and enhancement •Customized Support Plans tailored to client needs Empowering Digital Evolution ...Custom App & DevOps Scaling Web App Development Mobile App Development Progressive Web Apps (PWA) Development Legacy System Modernization Inclusive & Accessible UI/UX Design Integration Services",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 23
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-24",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "System Modernization Inclusive & Accessible UI/UX Design Integration Services CI/CD ImplementationMonitoring & Analytics Engineering ConsultingDevOps Consulting Transforming Your Applications with Modern & AI-Ready Solutions Holistic A I-Driven ...Digital Testing Services Digital QA Maturity Assessment Test Process Framework Implementation Functional Stability Testing AI-Powered Test Automation Performance TestingSecurity Testing Accessibility Testing Globalization & Localization Testing",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 24
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-25",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Testing Accessibility Testing Globalization & Localization Testing Conformance & Certifications Testing Reverse Engineering & Code Analysis Continuous Testing DevOps Testing & Scaling AI-Powered End-to-End Testing, Revolutionized with VVNT Cyber Assurance ...VAPT Services Portfolio Cybersecurity Maturity Assessment Application & API Security Testing Product Security Assurance Network & Infrastructure Penetration Testing Mobile Application Security Testing Cloud SecurityArchitecture &",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 25
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-26",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Testing Mobile Application Security Testing Cloud SecurityArchitecture & Assessments Identity & Access Management Solutions Privacy & Data Protection Consulting Advanced Cyber- Defense & Safeguards Real-time Security & Threat Monitoring Shift-Left Security & Automation Cybersecurity Governance Risks & Compliance From Strategic Assessments to Resilient Digital Ecosystems with VVNT Specialized A I & Automation SolutionsAI Models & Algorithms Development AI Model Validation & Optimization",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 26
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-27",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "SolutionsAI Models & Algorithms Development AI Model Validation & Optimization Intelligent Automation (RPA) Solutions Workflow Automation & Efficiency IoT Devices & Application Testing Blockchain Solutions & Assurance Cloud Scalability & Security Consulting Data Migration & Integrity Solutions Gaming Solutions Testing & QA Driving Innovation: Implementing Specialized AI & Automation Solutions with VVNT Ensuring Regulatory Adherence, Uncovering Risks & Fortifying Success •Covering Security,",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 27
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-28",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Regulatory Adherence, Uncovering Risks & Fortifying Success •Covering Security, Privacy, PCI DSS •Expertise in CIS, MITRE, OWASP, SANS •Addressing GDPR, CCPA, HIPAA, DPDPA •Adhering to WCAG, Section 508, ADA •Auditing for AI, Blockchain, IoT, Cloud •Customized Awareness Sessions Techno-Legal Assurance & AuditingGlobal Standards Compliance Cyber Resiliency Framework Audits Privacy Framework Compliance Accessibility Standards & Audits Technology & Security Policy Audits Security Awareness &",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 28
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-29",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Standards & Audits Technology & Security Policy Audits Security Awareness & Training Application Service Desk SolutionsEnsuring Your Application's Success, Every Step of the Way with VVNT •Optimized Process Improvement •Comprehensive Multi-Channel Support •Service Level Agreement (SLAs) Tracking •Advanced Proactive Monitoring •Insights for continuous improvement •Tailored & Customized Support Plans Tier 1 (L1) Support Tier 2 (L2) Advanced Support Seamless Stakeholder Communication Intelligent",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 29
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-30",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "Tier 2 (L2) Advanced Support Seamless Stakeholder Communication Intelligent Tickets Management Proactive Root Cause Analysis Disaster Recovery Planning Support Synergy Partners More Than a Vendor, A True Capability Partner AI-Powered Innovation Deep expertise for tangible business results. Holistic Approach Integrating Quality, Security, and Digital Engineering. Trusted Advocate Partnering for success in systems, processes, people, and tech. Diverse Engagement Models Collaborate with Our",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 30
+  },
+  {
+    "id": "pdf-VVnT_SeQuor_Company_Deck_pdf-31",
+    "title": "VVnT SeQuor Company Deck",
+    "category": "Official Document",
+    "content": "processes, people, and tech. Diverse Engagement Models Collaborate with Our Certified Professionals for Specialized Project Delivery Logix Technova, IT Park A-106 & 104, Plot. No. 4, Sector 132, Expressway, Noida-201304 (Adjacent Adobe Building) +918802801739, 9818068547, +91-120-3574106 http://www.vvntsequor.in sales@vvntsequor.in Contact U s",
+    "sourceFile": "VVnT_SeQuor_Company_Deck.pdf",
+    "chunkIndex": 31
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "vvnt-sequor-ai-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enterprise AI Chatbot Widget for VVnT SeQuor using MERN + LangChain RAG",
+  "scripts": {
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"blue,green\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "build:frontend": "npm run build --prefix frontend",
+    "start:backend": "npm run start --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "rag",
+    "langchain",
+    "mern",
+    "tailwind",
+    "framer-motion"
+  ],
+  "author": "VVnT SeQuor AI Engineering",
+  "license": "MIT"
+}
